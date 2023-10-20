@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Mi primera página HTML</h1>
-    <h3>Índice de contenidos</h3>
+    <h3 id="Indice">Índice de contenidos</h3>
     
     <ul>
         <li><a href="#HTML">HTML</a></li>
@@ -40,10 +40,22 @@
     <ol>
     <li>Historia de la web</li>
     <ul>
-        <li>Historia de World Wide Web: cuándo nace y quién la inventa (nobbot.com)</li>
+        <li><a href="https://www.nobbot.com/el-origen-de-la-world-wide-web-¿cuando-nace-y-quien-la-inventa/"alt="Origen de la WWW"target="_blank">Historia de World Wide Web: cuándo nace y quién la inventa (nobbot.com)</a></li>
+        <li><a href="https://es.wikipedia.org/wiki/Historia_de_la_World_Wide_Web"alt="Historia de la WWW"target="_blank">Historia de World Wide Web: cuándo nace y quién la inventa (nobbot.com)</a></li>
+        <li><a href="https://www.bbvaopenmind.com/tecnologia/visionarios/tim-berners-lee-y-el-origen-de-la-web/"alt="Historia de la WWW"target="_blank">Tim Berners-Lee y el origen de la Web | OpenMind (bbvaopenmind.com)</a></li>
     </ul>
     <li>HTML</li>
-
+    <ul>
+        <li><a href="https://es.wikipedia.org/wiki/HTML"alt="HTML"target="_blank">HTML - Wikipedia, la enciclopedia libre</a></li>
+        <li><a href="https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Getting_started"alt="Empezar con HTML"target="_blank">Empezar con HTML - Aprende desarrollo web | MDN (mozilla.org)</a></li>
+    </ul>
     </ol>
+
+    <hr>
+
+    <strong>Autor</strong>: Gerard Rodríguez Roca
+    <strong>Actividad</strong>: ASIX1M4UF1A4-Mi primera página HTML
+
+    <a href="#Indice">Volver al índice de contenidos</a> 
 </body>
 </html>
